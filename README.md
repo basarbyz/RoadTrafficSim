@@ -10,5 +10,5 @@ All simulation objects contain a function that performs a simulation step. Inter
 
 Screenshot of the Program: https://imgur.com/RCVvtCp
 
-![Alt text](https://imgur.com/RCVvtCp "Optional title")
+
      
