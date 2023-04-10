@@ -8,7 +8,7 @@ The objective is to model and simulate traffic on roads in an underdeveloped are
 
 All simulation objects contain a function that performs a simulation step. Intersections simulate the paths originating from them, and paths simulate the vehicles on them. Each time step involves the simulation of all intersections in the system in sequence, followed by the simulation of all other simulation objects. The system is controlled by a global clock that will synchronize the simulation of all objects. Speed limits may apply on some paths due to their nature (e.g., city streets, highways).
 
-Screenshot of the Program: https://imgur.com/RCVvtCp
+![imageedit_2_7808276905](https://user-images.githubusercontent.com/65845672/230884361-1f974cb8-8a03-46ad-9c7b-ed5d04d87bcb.png)
 
 
      
